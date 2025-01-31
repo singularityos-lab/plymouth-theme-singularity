@@ -1,0 +1,6 @@
+###################
+# global settings #
+###################
+
+[org.gnome.login-screen]
+logo='/usr/share/plymouth/themes/singularity-bgrt/bgrt-fallback.png'

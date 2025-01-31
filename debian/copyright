@@ -1,6 +1,6 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: Vanilla OS First Setup
-Source: https://github.com/vanilla-os/
+Upstream-Name: Singularity OS First Setup
+Source: https://github.com/singularityos-lab/
 
 Files: *
 Copyright: 2022 Mirko Brombin <send@mirko.pm>

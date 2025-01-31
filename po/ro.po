@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: plymouth-theme-vanilla master\n"
-"Report-Msgid-Bugs-To: https://github.com/Vanilla-OS/plymouth-theme-vanilla/"
+"Project-Id-Version: plymouth-theme-singularity master\n"
+"Report-Msgid-Bugs-To: https://github.com/Singularity-OS/plymouth-theme-singularity/"
 "issues\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -11,28 +11,28 @@ msgstr ""
 " 20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 21.12.2\n"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:34
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:34
 msgid "Powering Off"
 msgstr "Oprire"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:39
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:39
 msgid "Restarting"
 msgstr "Repornire"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:45
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:45
 msgid "Installing Updates"
 msgstr "Se instalează actualizări"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:46
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:53
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:60
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:46
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:53
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:60
 msgid "Do not turn off your computer"
 msgstr "Nu deconectați calculatorul"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:52
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:52
 msgid "Upgrading System"
 msgstr "Se înnoiește sistemul"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:59
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:59
 msgid "Upgrading Firmware"
 msgstr "Se înnoiește microcodul"

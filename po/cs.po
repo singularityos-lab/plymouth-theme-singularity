@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: plymouth-theme-vanilla master\n"
-"Report-Msgid-Bugs-To: https://github.com/Vanilla-OS/plymouth-theme-vanilla/"
+"Project-Id-Version: plymouth-theme-singularity master\n"
+"Report-Msgid-Bugs-To: https://github.com/Singularity-OS/plymouth-theme-singularity/"
 "issues\n"
 "master/cs/>\n"
 "Language: cs\n"
@@ -11,28 +11,28 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 4.8\n"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:34
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:34
 msgid "Powering Off"
 msgstr "Vypnout"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:39
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:39
 msgid "Restarting"
 msgstr "Restartovat"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:45
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:45
 msgid "Installing Updates"
 msgstr "Instalace aktualizací"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:46
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:53
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:60
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:46
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:53
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:60
 msgid "Do not turn off your computer"
 msgstr "Nevypínejte počítač"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:52
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:52
 msgid "Upgrading System"
 msgstr "Aktualizace systému"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:59
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:59
 msgid "Upgrading Firmware"
 msgstr "Aktualizace firmwaru"

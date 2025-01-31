@@ -1,7 +1,7 @@
 plymouth_themes = [
-  'vanilla-bgrt',
-  'vanilla-logo',
-  'vanilla-text',
+  'singularity-bgrt',
+  'singularity-logo',
+  'singularity-text',
 ]
 
 foreach plymouth_theme: plymouth_themes

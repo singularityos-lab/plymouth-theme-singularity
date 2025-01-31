@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: plymouth-theme-vanilla master\n"
-"Report-Msgid-Bugs-To: https://github.com/Vanilla-OS/plymouth-theme-vanilla/"
+"Project-Id-Version: plymouth-theme-singularity master\n"
+"Report-Msgid-Bugs-To: https://github.com/Singularity-OS/plymouth-theme-singularity/"
 "issues\n"
 "master/be/>\n"
 "Language: be\n"
@@ -12,28 +12,28 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.8\n"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:34
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:34
 msgid "Powering Off"
 msgstr "Выключэнне камп'ютара"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:39
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:39
 msgid "Restarting"
 msgstr "Перазапуск"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:45
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:45
 msgid "Installing Updates"
 msgstr "Усталяванне абнаўленняў"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:46
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:53
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:60
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:46
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:53
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:60
 msgid "Do not turn off your computer"
 msgstr "Не выключайце камп'ютар"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:52
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:52
 msgid "Upgrading System"
 msgstr "Абнаўленне сістэмы"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:59
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:59
 msgid "Upgrading Firmware"
 msgstr "Абнаўленне ўбудаванага ПЗ"

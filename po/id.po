@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"plymouth-theme-vanilla master\n"
-"Report-Msgid-Bugs-To: https://github.com/Vanilla-OS/plymouth-theme-vanilla/"
+"plymouth-theme-singularity master\n"
+"Report-Msgid-Bugs-To: https://github.com/Singularity-OS/plymouth-theme-singularity/"
 "issues\n"
 "master/id/>\n"
 "Language: id\n"
@@ -11,28 +11,28 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.3.2\n"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:34
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:34
 msgid "Powering Off"
 msgstr "Matikan"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:39
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:39
 msgid "Restarting"
 msgstr "Mulai Ulang"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:45
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:45
 msgid "Installing Updates"
 msgstr "Memasang Pemutakhiran"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:46
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:53
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:60
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:46
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:53
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:60
 msgid "Do not turn off your computer"
 msgstr "Jangan matikan komputer Anda"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:52
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:52
 msgid "Upgrading System"
 msgstr "Meningkatkan Sistem"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:59
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:59
 msgid "Upgrading Firmware"
 msgstr "Meningkatkan Firmware"

@@ -31,23 +31,23 @@ jobs:
         - name: Build debian package
           run: |
             dpkg-buildpackage --no-sign
-            mv ../plymouth-theme-vanilla-bgrt*.deb ../plymouth-theme-vanilla-bgrt.deb
-            mv ../plymouth-theme-vanilla-logo*.deb ../plymouth-theme-vanilla-logo.deb
-            mv ../plymouth-theme-vanilla-text*.deb ../plymouth-theme-vanilla-text.deb
+            mv ../plymouth-theme-singularity-bgrt*.deb ../plymouth-theme-singularity-bgrt.deb
+            mv ../plymouth-theme-singularity-logo*.deb ../plymouth-theme-singularity-logo.deb
+            mv ../plymouth-theme-singularity-text*.deb ../plymouth-theme-singularity-text.deb
     
         - name: Calculate and Save Checksums
           run: |
-            sha256sum /__w/plymouth-theme-vanilla/plymouth-theme-vanilla-bgrt.deb >> checksums.txt
-            sha256sum /__w/plymouth-theme-vanilla/plymouth-theme-vanilla-logo.deb >> checksums.txt
-            sha256sum /__w/plymouth-theme-vanilla/plymouth-theme-vanilla-text.deb >> checksums.txt
+            sha256sum /__w/plymouth-theme-singularity/plymouth-theme-singularity-bgrt.deb >> checksums.txt
+            sha256sum /__w/plymouth-theme-singularity/plymouth-theme-singularity-logo.deb >> checksums.txt
+            sha256sum /__w/plymouth-theme-singularity/plymouth-theme-singularity-text.deb >> checksums.txt
       
         - uses: actions/upload-artifact@v4
           with:
-            name: plymouth-theme-vanilla
+            name: plymouth-theme-singularity
             path: |
-                /__w/plymouth-theme-vanilla/plymouth-theme-vanilla-bgrt.deb
-                /__w/plymouth-theme-vanilla/plymouth-theme-vanilla-logo.deb
-                /__w/plymouth-theme-vanilla/plymouth-theme-vanilla-text.deb
+                /__w/plymouth-theme-singularity/plymouth-theme-singularity-bgrt.deb
+                /__w/plymouth-theme-singularity/plymouth-theme-singularity-logo.deb
+                /__w/plymouth-theme-singularity/plymouth-theme-singularity-text.deb
                 checksums.txt
 
         - uses: actions/upload-artifact@v4
@@ -74,15 +74,15 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
-          name: plymouth-theme-vanilla
+          name: plymouth-theme-singularity
 
       - name: Create Release
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release create "${{ github.ref_name }}" --generate-notes *.deb plymouth-theme-vanilla/checksums.txt
+        run: gh release create "${{ github.ref_name }}" --generate-notes *.deb plymouth-theme-singularity/checksums.txt
       
       - name: Attest Release Files
         id: attest
         uses: actions/attest-build-provenance@v1
         with:
-          subject-path: '*.deb, plymouth-theme-vanilla/*.txt'
+          subject-path: '*.deb, plymouth-theme-singularity/*.txt'

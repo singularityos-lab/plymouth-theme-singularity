@@ -1,0 +1,15 @@
+[Plymouth Theme]
+Name=Singularity Text
+Description=Text mode theme based on singularity-logo theme
+ModuleName=singularity-text
+
+[singularity-text]
+title=Singularity
+# Background
+black=0x242424
+# Title Text + Additional messages such as key interrupt
+white=0xffffff
+# Dot coloring
+brown=0x5a6943
+# Status message (fsck)
+blue=0x87a556

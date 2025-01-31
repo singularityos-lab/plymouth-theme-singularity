@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: plymouth-theme-vanilla master\n"
-"Report-Msgid-Bugs-To: https://github.com/Vanilla-OS/plymouth-theme-vanilla/"
+"Project-Id-Version: plymouth-theme-singularity master\n"
+"Report-Msgid-Bugs-To: https://github.com/Singularity-OS/plymouth-theme-singularity/"
 "issues\n"
 "master/fr/>\n"
 "Language: fr\n"
@@ -11,28 +11,28 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.3\n"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:34
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:34
 msgid "Powering Off"
 msgstr "Éteindre"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:39
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:39
 msgid "Restarting"
 msgstr "Redémarrer"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:45
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:45
 msgid "Installing Updates"
 msgstr "Installation des mises à jour"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:46
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:53
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:60
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:46
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:53
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:60
 msgid "Do not turn off your computer"
 msgstr "N’éteignez pas votre ordinateur"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:52
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:52
 msgid "Upgrading System"
 msgstr "Mise à jour du système"
 
-#: src/vanilla-bgrt/vanilla-bgrt.plymouth.desktop:59
+#: src/singularity-bgrt/singularity-bgrt.plymouth.desktop:59
 msgid "Upgrading Firmware"
 msgstr "Mise à jour du micrologiciel"
