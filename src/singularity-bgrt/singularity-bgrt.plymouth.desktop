@@ -31,12 +31,12 @@ UseFirmwareBackground=true
 [shutdown]
 UseEndAnimation=false
 UseFirmwareBackground=true
-Title=Powering off
+Title=Shutting down the engines
 
 [reboot]
 UseEndAnimation=false
 UseFirmwareBackground=true
-Title=Restarting
+Title=Restarting the engines
 
 [updates]
 SuppressMessages=true
