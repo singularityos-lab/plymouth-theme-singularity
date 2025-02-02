@@ -1,14 +1,8 @@
-plymouth-theme-singularity (1.1.0) unstable; urgency=medium
-
-  * remove plymouth-theme-ubuntu-text dependency
-
- -- Mateus Melchiades <matbme@duck.com>  Mon, 20 mar 2023 19:35:00 -0300
-
-plymouth-theme-singularity (1.0.0) unstable; urgency=medium
+plymouth-theme-singularity (1.0.3) unstable; urgency=medium
 
   * bump version
 
- -- Mirko Brombin <send@mirko.pm>  Sun, 29 dec 2022 15:32:36 +0530
+ -- Mirko Brombin <send@mirko.pm>  Sun, 02 jan 2025 15:32:36 +0530
 
 plymouth-theme-singularity (0.0.9) kinetic; urgency=medium
 
